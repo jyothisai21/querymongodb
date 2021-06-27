@@ -1,0 +1,135 @@
+[
+    {
+        "movie_name": "Inception",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Scifi"
+        ],
+        "media": {
+            "image": "https://www.imdb.com/title/tt1375666/mediaviewer/rm750748416/",
+            "video": "https://www.imdb.com/video/vi2959588889?playlistId=tt1375666&ref_=tt_ov_vi"
+        },
+        "artist_info": {
+            "artist_name": "Leonardo Dicaprio",
+            "skills": [
+                "Actor",
+                "Producer"
+            ],
+            "role": "Cobb"
+        },
+        "user_Info": {
+            "user_name": "user2",
+            "review": "bad"
+        }
+    },
+    {
+        "movie_name": "Fight Club",
+        "genre": "Drama",
+        "media": {
+            "image": "https://www.imdb.com/title/tt0137523/mediaviewer/rm1412004864/"
+        },
+        "artist_info": {
+            "artist_name": "Brad Pitt",
+            "skills": [
+                "Actor",
+                "Producer"
+            ],
+            "role": "Tyler Durden"
+        },
+        "user_Info": {
+            "user_name": "user2",
+            "review": "good"
+        }
+    },
+    {
+        "movie_name": "Shutter Island",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "media": {
+            "video": "https://www.imdb.com/video/vi4064281?playlistId=tt1130884&ref_=tt_ov_vi"
+        },
+        "artist_info": {
+            "artist_name": "Leonardo Dicaprio",
+            "skills": [
+                "Actor",
+                "Producer"
+            ],
+            "role": "Teddy Daniels"
+        },
+        "user_Info": {
+            "user_name": "user1",
+            "review": "good"
+        }
+    },
+    {
+        "movie_name": "Avengers",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "media": {
+            "image": "https://www.imdb.com/title/tt4154796/mediaviewer/rm2775147008/",
+            "video": "https://www.imdb.com/video/vi2163260441?playlistId=tt4154796&ref_=tt_ov_vi"
+        },
+        "artist_info": [
+            {
+                "artist_name": "Robert Downey Jr",
+                "skills": [
+                    "Actor",
+                    "Producer"
+                ],
+                "role": "Tony Stark"
+            },
+            {
+                "artist_name": "Chris Evans",
+                "skills": "Actor",
+                "role": "Steve Rogers"
+            },
+            {
+                "artist_name": "Mark Ruffalo",
+                "skills": [
+                    "Actor",
+                    "Producer"
+                ],
+                "role": "Bruce Banner"
+            }
+        ],
+        "user_Info": [
+            {
+                "user_name": "user1",
+                "review": "very good"
+            },
+            {
+                "user_name": "user3",
+                "review": "excellent"
+            },
+            {
+                "user_name": "user5",
+                "review": "excellent"
+            }
+        ]
+    },
+    {
+        "movie_name": "President Evil",
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "media": {
+            "video": "https://www.imdb.com/video/vi2146548249?playlistId=tt8638524&ref_=tt_ov_vi"
+        },
+        "artist_info": {
+            "artist_name": "Ryan Quinn",
+            "skills": "Actor",
+            "role": "David"
+        },
+        "user_Info": {
+            "user_name": "user4",
+            "review": "good"
+        }
+    }
+]
